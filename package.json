@@ -1,0 +1,27 @@
+{
+  "name": "user-regiter",
+  "version": "1.0.0",
+  "description": "This repo contains the MEAN stack application that is built through  Full Stack Training's MEAN Stack.",
+  "main": "app.js",
+  "dependencies": {
+    "bcrypt": "^2.0.1",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.14.2",
+    "express": "^4.13.3",
+    "mongodb": "^2.1.7",
+    "mongoose": "^4.4.8",
+    "nodemailer": "^4.6.5"
+  },
+  "devDependencies": {
+    "mocha": "^2.3.3"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/WinterSoilder/UserApi.git"
+  },
+  "author": "Tamas Piros",
+  "license": "ISC"
+}
